@@ -1,0 +1,6 @@
+@ValeFinanceWeb_HostAddress = http://localhost:5291
+
+GET {{ValeFinanceWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
